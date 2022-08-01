@@ -2,8 +2,6 @@
 
 #include "../common/common.h"
 
-void PrepareTestData(vector<TD_VI_I>& testData);
-
 class NumArray {
 public:
     NumArray(vector<int>& nums) :
