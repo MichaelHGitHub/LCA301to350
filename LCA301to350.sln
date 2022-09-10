@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "322_Coin_Change", "322_Coin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "326_Power_of_Three", "326_Power_of_Three\326_Power_of_Three.vcxproj", "{B6B45A7D-14AE-4D4A-A534-40954A19D6FB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "328_Odd_Even_Linked_List", "328_Odd_Even_Linked_List\328_Odd_Even_Linked_List.vcxproj", "{03E6C445-6B0B-4F72-87C4-F35A1C13B1C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{B6B45A7D-14AE-4D4A-A534-40954A19D6FB}.Release|x64.Build.0 = Release|x64
 		{B6B45A7D-14AE-4D4A-A534-40954A19D6FB}.Release|x86.ActiveCfg = Release|Win32
 		{B6B45A7D-14AE-4D4A-A534-40954A19D6FB}.Release|x86.Build.0 = Release|Win32
+		{03E6C445-6B0B-4F72-87C4-F35A1C13B1C5}.Debug|x64.ActiveCfg = Debug|x64
+		{03E6C445-6B0B-4F72-87C4-F35A1C13B1C5}.Debug|x64.Build.0 = Debug|x64
+		{03E6C445-6B0B-4F72-87C4-F35A1C13B1C5}.Debug|x86.ActiveCfg = Debug|Win32
+		{03E6C445-6B0B-4F72-87C4-F35A1C13B1C5}.Debug|x86.Build.0 = Debug|Win32
+		{03E6C445-6B0B-4F72-87C4-F35A1C13B1C5}.Release|x64.ActiveCfg = Release|x64
+		{03E6C445-6B0B-4F72-87C4-F35A1C13B1C5}.Release|x64.Build.0 = Release|x64
+		{03E6C445-6B0B-4F72-87C4-F35A1C13B1C5}.Release|x86.ActiveCfg = Release|Win32
+		{03E6C445-6B0B-4F72-87C4-F35A1C13B1C5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
