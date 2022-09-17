@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "328_Odd_Even_Linked_List", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "331_Preorder_Binary_Tree", "331_Preorder_Binary_Tree\331_Preorder_Binary_Tree.vcxproj", "{9F58F21B-C2CD-4BDA-A307-315AEF90EF3D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "334_Increase_Triplet_Subsequence", "334_Increase_Triplet_Subsequence\334_Increase_Triplet_Subsequence.vcxproj", "{975C076F-CDAC-4C68-B1D1-431686B51517}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{9F58F21B-C2CD-4BDA-A307-315AEF90EF3D}.Release|x64.Build.0 = Release|x64
 		{9F58F21B-C2CD-4BDA-A307-315AEF90EF3D}.Release|x86.ActiveCfg = Release|Win32
 		{9F58F21B-C2CD-4BDA-A307-315AEF90EF3D}.Release|x86.Build.0 = Release|Win32
+		{975C076F-CDAC-4C68-B1D1-431686B51517}.Debug|x64.ActiveCfg = Debug|x64
+		{975C076F-CDAC-4C68-B1D1-431686B51517}.Debug|x64.Build.0 = Debug|x64
+		{975C076F-CDAC-4C68-B1D1-431686B51517}.Debug|x86.ActiveCfg = Debug|Win32
+		{975C076F-CDAC-4C68-B1D1-431686B51517}.Debug|x86.Build.0 = Debug|Win32
+		{975C076F-CDAC-4C68-B1D1-431686B51517}.Release|x64.ActiveCfg = Release|x64
+		{975C076F-CDAC-4C68-B1D1-431686B51517}.Release|x64.Build.0 = Release|x64
+		{975C076F-CDAC-4C68-B1D1-431686B51517}.Release|x86.ActiveCfg = Release|Win32
+		{975C076F-CDAC-4C68-B1D1-431686B51517}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
