@@ -223,6 +223,11 @@ struct TD_G_G
     GraphNode* output;
 };
 
+struct TD_VC_VC
+{
+    vector<char> input;
+    vector<char> output;
+};
 
 struct TD_VI_T
 {
@@ -707,6 +712,9 @@ void CheckResults(TD_VI_I testData, int result);
 
 void PrintInput(TD_VI_VS testData);
 void CheckResults(TD_VI_VS testData, vector<string> result);
+
+void PrintInput(TD_VC_VC testData);
+void CheckResults(TD_VC_VC testData, vector<char> result);
 
 void PrintInput(TD_VI_B testData);
 void CheckResults(TD_VI_B testData, bool result);
